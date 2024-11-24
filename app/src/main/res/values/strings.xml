@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task_5</string>
+    <string name="title_home">Task 1</string>
+    <string name="title_dashboard">Task 2</string>
+    <string name="title_notifications">Task 3</string>
+
+    <string name="userKeys">Номери потрібних елементів через пробіл</string>
+    <string name="n">Кількість збірних шин</string>
+
+    <string name="zPerA">Збитки в разі аварійних вимкнень</string>
+    <string name="zPerP">Збитки в разі планових вимкнень</string>
+    <string name="omega">Частота відмов</string>
+    <string name="t">Середній час відновлення трансформатора</string>
+    <string name="kp">Середній час планового простою</string>
+    <string name="Pm">Потужність трансформатора</string>
+    <string name="Tm">Час відключення</string>
+
+</resources>
